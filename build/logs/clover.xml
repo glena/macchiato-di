@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1456946378">
+  <project timestamp="1456946378">
+    <package name="MacchiatoPHP\DI">
+      <file name="/Users/germanlena/my/macchiatophp/di/src/Container.php">
+        <class name="Container" namespace="MacchiatoPHP\DI">
+          <metrics methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="39" coveredstatements="39" elements="45" coveredelements="45"/>
+        </class>
+        <line num="8" type="method" name="setInstance" crap="1" count="1"/>
+        <line num="10" type="stmt" count="1"/>
+        <line num="11" type="stmt" count="1"/>
+        <line num="13" type="method" name="mapInterface" crap="1" count="1"/>
+        <line num="15" type="stmt" count="1"/>
+        <line num="16" type="stmt" count="1"/>
+        <line num="18" type="method" name="instantiate" crap="4" count="11"/>
+        <line num="20" type="stmt" count="11"/>
+        <line num="24" type="stmt" count="11"/>
+        <line num="25" type="stmt" count="11"/>
+        <line num="27" type="stmt" count="11"/>
+        <line num="29" type="stmt" count="2"/>
+        <line num="30" type="stmt" count="1"/>
+        <line num="33" type="stmt" count="11"/>
+        <line num="34" type="stmt" count="11"/>
+        <line num="36" type="stmt" count="11"/>
+        <line num="38" type="stmt" count="10"/>
+        <line num="41" type="stmt" count="10"/>
+        <line num="43" type="stmt" count="10"/>
+        <line num="45" type="stmt" count="10"/>
+        <line num="49" type="method" name="getContructorParameters" crap="10" count="10"/>
+        <line num="51" type="stmt" count="10"/>
+        <line num="52" type="stmt" count="10"/>
+        <line num="54" type="stmt" count="10"/>
+        <line num="56" type="stmt" count="10"/>
+        <line num="58" type="stmt" count="10"/>
+        <line num="60" type="stmt" count="10"/>
+        <line num="61" type="stmt" count="1"/>
+        <line num="62" type="stmt" count="10"/>
+        <line num="63" type="stmt" count="5"/>
+        <line num="64" type="stmt" count="5"/>
+        <line num="65" type="stmt" count="1"/>
+        <line num="67" type="stmt" count="10"/>
+        <line num="70" type="stmt" count="2"/>
+        <line num="71" type="stmt" count="1"/>
+        <line num="73" type="stmt" count="10"/>
+        <line num="77" type="stmt" count="8"/>
+        <line num="80" type="method" name="findMapping" crap="2" count="2"/>
+        <line num="82" type="stmt" count="2"/>
+        <line num="84" type="stmt" count="1"/>
+        <line num="87" type="stmt" count="1"/>
+        <line num="89" type="method" name="findInstance" crap="2" count="11"/>
+        <line num="91" type="stmt" count="11"/>
+        <line num="93" type="stmt" count="11"/>
+        <line num="96" type="stmt" count="2"/>
+        <metrics loc="98" ncloc="98" classes="1" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="39" coveredstatements="39" elements="45" coveredelements="45"/>
+      </file>
+      <file name="/Users/germanlena/my/macchiatophp/di/src/DIContainerException.php">
+        <class name="DIContainerException" namespace="MacchiatoPHP\DI">
+          <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="4" ncloc="4" classes="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+      <file name="/Users/germanlena/my/macchiatophp/di/src/InstanceCacheException.php">
+        <class name="InstanceCacheException" namespace="MacchiatoPHP\DI">
+          <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="4" ncloc="4" classes="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+      <file name="/Users/germanlena/my/macchiatophp/di/src/InterfaceMappingException.php">
+        <class name="InterfaceMappingException" namespace="MacchiatoPHP\DI">
+          <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="4" ncloc="4" classes="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+      <file name="/Users/germanlena/my/macchiatophp/di/src/MissingParametersException.php">
+        <class name="MissingParametersException" namespace="MacchiatoPHP\DI">
+          <metrics methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="4" ncloc="4" classes="1" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+    </package>
+    <metrics files="5" loc="114" ncloc="114" classes="5" methods="6" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="39" coveredstatements="39" elements="45" coveredelements="45"/>
+  </project>
+</coverage>
